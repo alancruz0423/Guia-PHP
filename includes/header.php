@@ -2,8 +2,8 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>PHP en acción</title>
-  <link rel="stylesheet" href="css/estilos.css">
+  <title>Guia de PHP</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 <header>
