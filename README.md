@@ -20,4 +20,4 @@ En este proyecto estamos desarrollando una pagina web y a su vez aplicando lo ap
 
 ## Links:
 - link del repositorio GitHub: https://github.com/alancruz0423/Guia-PHP.git
-- link del sitio publicado: 
+- link del sitio publicado: phpguia.infinityfreeapp.com	
