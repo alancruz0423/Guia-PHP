@@ -19,5 +19,5 @@ En este proyecto estamos desarrollando una pagina web y a su vez aplicando lo ap
 - Manejo de sesiones
 
 ## Links:
-- link del repositorio GitHub:
+- link del repositorio GitHub: https://github.com/alancruz0423/Guia-PHP.git
 - link del sitio publicado: 
